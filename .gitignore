@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 日志与流水（可能含设备完整输出，别提交）
+*.log
+*.jsonl
+logs/
+control/
+
+# 备份文件
+*.bak
+*.bak-*
+*.orig
